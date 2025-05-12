@@ -37,15 +37,10 @@ CyberPortfolio is a sleek, professional portfolio template designed for creative
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/cyberportfolio.git
+   git clone https://github.com/vuhoangne/homeworkCBS_MyPortfolio.git
    ```
 
-2. Open the project folder:
-   ```
-   cd cyberportfolio
-   ```
-
-3. Open `index.html` in your browser or use a local development server.
+2. Download zip file 
 
 ## Customization
 
